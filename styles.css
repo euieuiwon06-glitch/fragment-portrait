@@ -1,0 +1,20 @@
+* { box-sizing: border-box; margin: 0; }
+
+html, body {
+  height: 100%;
+  background: #000;
+  color: #eee;
+  font: 13px/1.4 "Pretendard", "Noto Sans KR", system-ui, sans-serif;
+  overflow: hidden;
+}
+
+/* 조각들이 화면 전체를 돌아다니므로 캔버스는 창 전체 */
+#out {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+#cam { display: none; }
