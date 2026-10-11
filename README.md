@@ -5,6 +5,11 @@
 
 격자에 바로 찍히는 기본형은 `../fragment-portrait-8742`.
 
+## 배포
+
+- 사이트: https://euieuiwon06-glitch.github.io/fragment-portrait/
+- 수정 후 커밋하고 `git push` 하면 GitHub Pages(main 루트)에 자동 반영
+
 ## 실행
 
 ```
